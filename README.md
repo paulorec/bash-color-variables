@@ -1,7 +1,9 @@
-#!/bin/bash
+#bash-color-variables
 
-# bash-color-variables
-# Color variables to build elegant scripts
+ Color variables to build elegant scripts
+
+```
+#!/bin/bash
 
 # Use nc to restore color: eg. 
 # echo -e 'this is a normal text and ${RED}important!{NC} will be red text and this will be back to normal color'
@@ -27,3 +29,4 @@ WHITE='\033[01;37m'
 #
 # Feel free to add more
 #
+```
